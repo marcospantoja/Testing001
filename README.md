@@ -1,4 +1,4 @@
-# How to add new resource module to project
+# asdasdasdHow to add new resource module to project
 
 `mvn io.quarkus:quarkus-maven-plugin:1.6.0.Final:create -DprojectGroupId=com.bbva.ninjahack -DprojectArtifactId=users-service -DclassName="com.bbva.ninjahack.services.user.UserResource" -Dpath="api/users"`
 
